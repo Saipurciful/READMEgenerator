@@ -10,7 +10,7 @@
 * [License](#License)
 * [Contributing Guildline](#Contributing-Guildline)
 * [Tests Instructions](#Tests-Instructions)
-* [Demonstration video](https://www.youtube.com/embed/1W9DCzCqo18) 
+* [Demonstration video](Demonstration-video) 
 * [Questions](#Questions)
 
 ## Installation Instructions
@@ -37,6 +37,9 @@ Open command-line application and type node index.js click enter, the applicatio
 ##  Demonstration video
 
 ![](https://media.giphy.com/media/tjShNrFPPje3LfNq91/giphy.gif)
+
+* Link to Demonstration on YouTube
+* https://www.youtube.com/embed/1W9DCzCqo18
 
 ## Questions
 
