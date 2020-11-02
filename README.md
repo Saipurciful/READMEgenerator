@@ -10,9 +10,8 @@
 * [License](#License)
 * [Contributing Guildline](#Contributing-Guildline)
 * [Tests Instructions](#Tests-Instructions)
+* [Demonstration video](https://www.youtube.com/embed/1W9DCzCqo18) 
 * [Questions](#Questions)
-
-
 
 ## Installation Instructions
 npm init (to install package.json) | npm install inquirer (to install inquirer)
@@ -34,6 +33,10 @@ We encourage public contributions!
 ## Tests Instructions
 
 Open command-line application and type node index.js click enter, the application will prompt with questions for user to input and to choose one. Once answers have been submitted, the command-line application will generate the README.md file.
+
+##  Demonstration video
+
+![](https://media.giphy.com/media/tjShNrFPPje3LfNq91/giphy.gif)
 
 ## Questions
 
